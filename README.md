@@ -1,8 +1,14 @@
-## Hi! 👋 My neme is Viktor. Welcome :v:
+## Hi! 👋 My neme is Viktor. Welcome ✌️
 
-## 🛠 Technical Stack
+## ⭐ About me ⭐
+*  I am 39 year old programmer from Moscow 
+*  I learn Java at Job4j 
+*  My Java expirience is 3 years 
+
+## 🛠 Technical Stack 🛠
 *   Java, Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
 *   GitHub/Git, JUnit, Logging, GSON, JAXB, SQL, PostgreSQL, MySQL, Servlets, HTML, JSP, JSTL, Tomcat, Maven
+
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=iceivannikov&show_icons=true&count_private=true">
