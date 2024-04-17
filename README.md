@@ -1,5 +1,9 @@
 ## Hi! 👋 My neme is Viktor. Welcome :v:
 
+## 🛠 Technical Stack
+*   Java, Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
+*   GitHub/Git, JUnit, Logging, GSON, JAXB, SQL, PostgreSQL, MySQL, Servlets, HTML, JSP, JSTL, Tomcat, Maven
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=iceivannikov&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=iceivannikov&show_icons=true&count_private=true"/></a>
@@ -22,10 +26,6 @@
 <p align='center'>
    📫 How to reach me: <a href='mailto:iceivannikov@gmail.com'>iceivannikov@gmail.com</a>
 </p>
-
-## 🛠 Technical Stack
-*   Java, Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
-*   GitHub/Git, JUnit, Logging, GSON, JAXB, SQL, PostgreSQL, MySQL, Servlets, HTML, JSP, JSTL, Tomcat, Maven
 
    <div align="center" style="margin: 40px 0">
    <a href="https://github.com/iceivannikov/github-profile-views-counter">
