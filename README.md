@@ -1,4 +1,4 @@
-## Hi! 👋 My neme is Viktor. Welcome ✌️
+## Hi! 👋 My name is Viktor. Welcome ✌️
 
 ## ⭐ About me ⭐
 *  I am 39 year old programmer from Moscow 
