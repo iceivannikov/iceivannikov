@@ -1,7 +1,7 @@
 ## Hi! 👋 My name is Viktor. Welcome ✌️
 
 ## ⭐ About me ⭐
-*  I am 39 year old programmer from Moscow 
+*  I am 40 year old programmer from Moscow 
 *  I learn Java at Job4j 
 *  My Java expirience is 3 years 
 
